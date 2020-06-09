@@ -1,0 +1,15 @@
+.left-side {
+  width: 500px;
+  height: 500px;
+  background-color: green;
+  display: inline-block;
+  vertical-align: top;
+}
+.left-side input {
+  margin-top: 100px;
+}
+
+.left-side button {
+  display: block;
+  margin: 20px auto;
+}
